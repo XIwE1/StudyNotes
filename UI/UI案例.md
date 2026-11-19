@@ -34,3 +34,8 @@
 ![alt text](image-9.png)
 
 可以用color-scheme 让系统去处理 滚动 表格等能让系统配置的暗夜模式
+
+### 视差滚动
+使不同层次的元素以不同的速度进行滚动，创造出一种三维的视觉深度感。这种技术可以增强用户体验，使网页内容更加生动有趣。
+
+background-attachment 和 transform:translate3D
